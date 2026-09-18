@@ -214,6 +214,7 @@
 * ✅ Munar Descent Stage
 * ✅ Munar Excursion Module Ascent Stage
 * ✅ PPD-8 Lander Can
+* ✅ SXTke111
 ##### FUSELAGES
 * ✅ PPD-SM1600 Service Module
 * ✅ MK1 Aircraft Fuselage
